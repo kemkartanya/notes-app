@@ -8,4 +8,4 @@
 
 
 # Notes List
-<img src="./notes-app.PNG">  
+<img src="./notes-app.png">  
